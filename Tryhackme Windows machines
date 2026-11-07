@@ -1,0 +1,158 @@
+TRYHACKME WINDOWS LEARNING ROADMAP
+==================================
+
+PHASE 1 - WINDOWS FUNDAMENTALS
+==============================
+
+1. Windows Fundamentals 1
+   Link   : https://tryhackme.com/room/windowsfundamentals1xbx
+   Access : Free
+   Topic  : Windows Basics
+
+2. Windows Fundamentals 2
+   Link   : https://tryhackme.com/room/windowsfundamentals2x0x
+   Access : Free
+   Topic  : Files, Users, Permissions
+
+3. Windows Fundamentals 3
+   Link   : https://tryhackme.com/room/windowsfundamentals3xzx
+   Access : Free
+   Topic  : Services, Security, Networking
+
+
+PHASE 2 - WINDOWS EXPLOITATION
+==============================
+
+4. Blue
+   Link   : https://tryhackme.com/room/blue
+   Access : Free
+   Topic  : EternalBlue (MS17-010)
+
+5. Ice
+   Link   : https://tryhackme.com/room/ice
+   Access : Free
+   Topic  : Remote Service Exploitation
+
+6. Steel Mountain
+   Link   : https://tryhackme.com/room/steelmountain
+   Access : Free
+   Topic  : Web Exploitation & Privilege Escalation
+
+7. Retro
+   Link   : https://tryhackme.com/room/retro
+   Access : Free
+   Topic  : Windows Enumeration
+
+8. Relevant
+   Link   : https://tryhackme.com/room/relevant
+   Access : Free
+   Topic  : SMB, Web, PrivEsc
+
+
+PHASE 3 - POST EXPLOITATION & PRIVESC
+=====================================
+
+9. Post Exploitation Basics
+   Link   : https://tryhackme.com/room/postexploit
+   Access : Free
+   Topic  : Mimikatz, PowerView, Post-Exploitation
+
+10. Windows PrivEsc
+    Link   : https://tryhackme.com/room/windows10privesc
+    Access : Premium
+    Topic  : Windows Privilege Escalation
+
+11. Windows PrivEsc Arena
+    Link   : https://tryhackme.com/room/windowsprivescarena
+    Access : Premium
+    Topic  : Practical PrivEsc Techniques
+
+12. Windows Local Persistence
+    Link   : https://tryhackme.com/room/windowslocalpersistence
+    Access : Premium
+    Topic  : Persistence
+
+13. Windows Persistence
+    Link   : https://tryhackme.com/room/windowspersistencetask
+    Access : Premium
+    Topic  : Backdoors & Persistence
+
+
+PHASE 4 - ACTIVE DIRECTORY
+==========================
+
+14. Active Directory Basics
+    Link   : https://tryhackme.com/room/winadbasics
+    Access : Free
+    Topic  : AD Fundamentals
+
+15. Attacktive Directory
+    Link   : https://tryhackme.com/room/attacktivedirectory
+    Access : Free
+    Topic  : Practical AD Attacks
+
+16. Attacking Kerberos
+    Link   : https://tryhackme.com/room/attackingkerberos
+    Access : Premium
+    Topic  : Kerberoasting
+
+17. Breaching Active Directory
+    Link   : https://tryhackme.com/room/breachingad
+    Access : Premium
+    Topic  : Initial AD Compromise
+
+18. Enumerating Active Directory
+    Link   : https://tryhackme.com/room/enumeratingad
+    Access : Premium
+    Topic  : AD Enumeration
+
+19. Exploiting Active Directory
+    Link   : https://tryhackme.com/room/exploitingad
+    Access : Premium
+    Topic  : Active Directory Exploitation
+
+
+PHASE 5 - ENTERPRISE LABS
+=========================
+
+20. Enterprise
+    Link   : https://tryhackme.com/room/enterprise
+    Access : Premium
+    Topic  : Enterprise AD Environment
+
+21. Holo
+    Link   : https://tryhackme.com/room/hololive
+    Access : Premium
+    Topic  : Advanced AD Attacks
+
+22. Wreath
+    Link   : https://tryhackme.com/room/wreath
+    Access : Premium
+    Topic  : Multi-Host Enterprise Environment
+
+
+RECOMMENDED TEACHING ORDER
+==========================
+
+01. Windows Fundamentals 1
+02. Windows Fundamentals 2
+03. Windows Fundamentals 3
+04. Blue
+05. Ice
+06. Steel Mountain
+07. Retro
+08. Relevant
+09. Post Exploitation Basics
+10. Windows PrivEsc
+11. Windows PrivEsc Arena
+12. Active Directory Basics
+13. Attacktive Directory
+14. Attacking Kerberos
+15. Breaching Active Directory
+16. Enumerating Active Directory
+17. Exploiting Active Directory
+18. Enterprise
+19. Holo
+20. Wreath
+
+END OF FILE
