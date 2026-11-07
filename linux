@@ -1,0 +1,212 @@
+TRYHACKME LINUX LEARNING ROADMAP
+===============================
+
+PHASE 1 - LINUX FUNDAMENTALS
+===========================
+
+1. Linux Fundamentals Part 1
+   Link   : https://tryhackme.com/room/linuxfundamentalspart1
+   Access : Free
+
+2. Linux Fundamentals Part 2
+   Link   : https://tryhackme.com/room/linuxfundamentalspart2
+   Access : Free
+
+3. Linux Fundamentals Part 3
+   Link   : https://tryhackme.com/room/linuxfundamentalspart3
+   Access : Free
+
+
+PHASE 2 - LINUX ESSENTIALS
+==========================
+
+4. Junior Security Analyst Intro
+   Link   : https://tryhackme.com/room/jrsecanalystintroui
+   Access : Free
+
+5. Intro to Cyber Security
+   Link   : https://tryhackme.com/room/introtooffensivesecurity
+   Access : Free
+
+6. Common Linux Privesc
+   Link   : https://tryhackme.com/room/commonlinuxprivesc
+   Access : Free
+
+7. Linux PrivEsc
+   Link   : https://tryhackme.com/room/linprivesc
+   Access : Premium
+
+
+PHASE 3 - BEGINNER LINUX MACHINES
+=================================
+
+8. Pickle Rick
+   Link   : https://tryhackme.com/room/picklerick
+   Access : Free
+
+9. RootMe
+   Link   : https://tryhackme.com/room/rrootme
+   Access : Free
+
+10. Kenobi
+    Link   : https://tryhackme.com/room/kenobi
+    Access : Free
+
+11. Basic Pentesting
+    Link   : https://tryhackme.com/room/basicpentestingjt
+    Access : Free
+
+12. Vulnversity
+    Link   : https://tryhackme.com/room/vulnversity
+    Access : Free
+
+
+PHASE 4 - LINUX ENUMERATION
+===========================
+
+13. OhSINT
+    Link   : https://tryhackme.com/room/ohsint
+    Access : Free
+
+14. Simple CTF
+    Link   : https://tryhackme.com/room/easyctf
+    Access : Free
+
+15. LazyAdmin
+    Link   : https://tryhackme.com/room/lazyadmin
+    Access : Free
+
+16. Ignite
+    Link   : https://tryhackme.com/room/ignite
+    Access : Free
+
+17. Bounty Hacker
+    Link   : https://tryhackme.com/room/cowboyhacker
+    Access : Free
+
+
+PHASE 5 - LINUX PRIVILEGE ESCALATION
+====================================
+
+18. Linux PrivEsc Arena
+    Link   : https://tryhackme.com/room/linuxprivescarena
+    Access : Premium
+
+19. LFI Inclusion
+    Link   : https://tryhackme.com/room/lfi
+    Access : Premium
+
+20. Rocket
+    Link   : https://tryhackme.com/room/rocket
+    Access : Premium
+
+21. Brooklyn Nine Nine
+    Link   : https://tryhackme.com/room/brooklynninenine
+    Access : Free
+
+
+PHASE 6 - INTERMEDIATE LINUX MACHINES
+=====================================
+
+22. Overpass
+    Link   : https://tryhackme.com/room/overpass
+    Access : Free
+
+23. Overpass 2 - Hacked
+    Link   : https://tryhackme.com/room/overpass2hacked
+    Access : Free
+
+24. Overpass 3 - Hosting
+    Link   : https://tryhackme.com/room/overpass3hosting
+    Access : Free
+
+25. Wonderland
+    Link   : https://tryhackme.com/room/wonderland
+    Access : Free
+
+26. Anonymous
+    Link   : https://tryhackme.com/room/anonymous
+    Access : Free
+
+27. Skynet
+    Link   : https://tryhackme.com/room/skynet
+    Access : Free
+
+
+PHASE 7 - ADVANCED LINUX MACHINES
+=================================
+
+28. Mr Robot CTF
+    Link   : https://tryhackme.com/room/mrrobot
+    Access : Free
+
+29. Daily Bugle
+    Link   : https://tryhackme.com/room/dailybugle
+    Access : Free
+
+30. CMesS
+    Link   : https://tryhackme.com/room/cmess
+    Access : Free
+
+31. Break Out The Cage
+    Link   : https://tryhackme.com/room/breakoutthecage1
+    Access : Free
+
+32. Blog
+    Link   : https://tryhackme.com/room/blog
+    Access : Free
+
+
+PHASE 8 - RED TEAM LINUX
+========================
+
+33. Red Team Fundamentals
+    Link   : https://tryhackme.com/room/redteamfundamentals
+    Access : Premium
+
+34. Linux Persistence
+    Link   : Premium Track
+    Access : Premium
+
+35. Wreath
+    Link   : https://tryhackme.com/room/wreath
+    Access : Premium
+
+36. Throwback
+    Link   : https://tryhackme.com/room/throwback
+    Access : Premium
+
+
+RECOMMENDED TEACHING ORDER
+==========================
+
+01. Linux Fundamentals Part 1
+02. Linux Fundamentals Part 2
+03. Linux Fundamentals Part 3
+04. Common Linux Privesc
+05. Pickle Rick
+06. RootMe
+07. Kenobi
+08. Vulnversity
+09. Basic Pentesting
+10. LazyAdmin
+11. Ignite
+12. Bounty Hacker
+13. Anonymous
+14. Overpass
+15. Overpass 2
+16. Overpass 3
+17. Brooklyn Nine Nine
+18. Wonderland
+19. Skynet
+20. Linux PrivEsc
+21. Linux PrivEsc Arena
+22. Mr Robot CTF
+23. Daily Bugle
+24. CMesS
+25. Break Out The Cage
+26. Red Team Fundamentals
+27. Wreath
+28. Throwback
+
+END OF FILE
