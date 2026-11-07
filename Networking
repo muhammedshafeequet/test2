@@ -1,0 +1,254 @@
+TRYHACKME NETWORKING ROADMAP
+===========================
+
+PHASE 1 - NETWORKING FUNDAMENTALS
+================================
+
+1. What is Networking?
+   Link   : https://tryhackme.com/room/whatisnetworking
+   Access : Free
+   Topic  : Network Basics
+
+2. Intro to LAN
+   Link   : https://tryhackme.com/room/introtolan
+   Access : Free
+   Topic  : Local Area Networks
+
+3. OSI Model
+   Link   : https://tryhackme.com/room/osimodelzi
+   Access : Free
+   Topic  : OSI Layers
+
+4. Packets & Frames
+   Link   : https://tryhackme.com/room/packetsframes
+   Access : Free
+   Topic  : Data Transmission
+
+5. Extending Your Network
+   Link   : https://tryhackme.com/room/extendingyournetwork
+   Access : Free
+   Topic  : Switches, Routers, VLANs
+
+6. Intro to Network Services
+   Link   : https://tryhackme.com/room/introtonetworkservices
+   Access : Free
+   Topic  : Common Network Services
+
+
+PHASE 2 - INTERNET & WEB BASICS
+===============================
+
+7. DNS in Detail
+   Link   : https://tryhackme.com/room/dnsindetail
+   Access : Free
+   Topic  : DNS
+
+8. HTTP in Detail
+   Link   : https://tryhackme.com/room/httpindetail
+   Access : Free
+   Topic  : HTTP/HTTPS
+
+9. How Websites Work
+   Link   : https://tryhackme.com/room/howwebsiteswork
+   Access : Free
+   Topic  : Website Fundamentals
+
+10. Putting It All Together
+    Link   : https://tryhackme.com/room/puttingitalltogether
+    Access : Free
+    Topic  : Internet Communication Flow
+
+
+PHASE 3 - PORTS & NETWORK SERVICES
+==================================
+
+11. Nmap
+    Link   : https://tryhackme.com/room/furthernmap
+    Access : Free
+    Topic  : Port Scanning
+
+12. Nmap Live Host Discovery
+    Link   : https://tryhackme.com/room/nmap01
+    Access : Free
+    Topic  : Host Discovery
+
+13. Nmap Basic Port Scans
+    Link   : https://tryhackme.com/room/nmap02
+    Access : Free
+    Topic  : TCP & UDP Ports
+
+14. Nmap Advanced Port Scans
+    Link   : https://tryhackme.com/room/nmap03
+    Access : Free
+    Topic  : Advanced Scanning
+
+15. Nmap Post Port Scans
+    Link   : https://tryhackme.com/room/nmap04
+    Access : Free
+    Topic  : Enumeration
+
+16. Service Enumeration
+    Link   : Various Labs
+    Access : Mixed
+    Topic  : Service Detection
+
+
+PHASE 4 - NETWORK PROTOCOLS
+===========================
+
+17. DNS in Detail
+    Protocol : DNS (53)
+
+18. HTTP in Detail
+    Protocol : HTTP (80), HTTPS (443)
+
+19. SMB Basics
+    Link   : https://tryhackme.com/room/smbroom
+    Access : Free/Premium
+    Topic  : SMB (445)
+
+20. Telnet
+    Link   : https://tryhackme.com/room/telnet
+    Access : Free
+    Topic  : Telnet (23)
+
+21. FTP
+    Link   : https://tryhackme.com/room/ftp
+    Access : Free
+    Topic  : FTP (21)
+
+22. LDAP
+    Link   : AD-related Rooms
+    Access : Mixed
+    Topic  : LDAP (389)
+
+23. Kerberos
+    Link   : https://tryhackme.com/room/attackingkerberos
+    Access : Premium
+    Topic  : Kerberos (88)
+
+24. SNMP
+    Link   : Enumeration Labs
+    Access : Mixed
+    Topic  : SNMP (161)
+
+
+PHASE 5 - PACKET ANALYSIS
+=========================
+
+25. Wireshark Fundamentals
+    Link   : https://tryhackme.com/room/wireshark
+    Access : Free
+    Topic  : Packet Analysis
+
+26. Wireshark The Basics
+    Link   : https://tryhackme.com/room/wiresharkthebasics
+    Access : Free
+    Topic  : Packet Capture
+
+27. Traffic Analysis Essentials
+    Link   : https://tryhackme.com/room/trafficanalysisessentials
+    Access : Free
+    Topic  : Network Traffic Analysis
+
+28. Tshark Challenges
+    Link   : TryHackMe Tshark Labs
+    Access : Mixed
+    Topic  : CLI Packet Analysis
+
+
+PHASE 6 - PRACTICAL NETWORK ENUMERATION
+=======================================
+
+29. Network Services
+    Link   : https://tryhackme.com/room/networkservices
+    Access : Free
+    Topic  : SMB, FTP, NFS
+
+30. Network Services 2
+    Link   : https://tryhackme.com/room/networkservices2
+    Access : Free
+    Topic  : Advanced Enumeration
+
+31. VulnNet Series
+    Link   : Various VulnNet Rooms
+    Access : Mixed
+    Topic  : Real-world Enumeration
+
+32. Basic Pentesting
+    Link   : https://tryhackme.com/room/basicpentestingjt
+    Access : Free
+    Topic  : Network Enumeration
+
+
+IMPORTANT PORTS TO TEACH
+========================
+
+20  - FTP Data
+21  - FTP
+22  - SSH
+23  - Telnet
+25  - SMTP
+53  - DNS
+67  - DHCP
+68  - DHCP Client
+69  - TFTP
+80  - HTTP
+88  - Kerberos
+110 - POP3
+123 - NTP
+135 - RPC
+137 - NetBIOS
+138 - NetBIOS
+139 - SMB NetBIOS
+143 - IMAP
+161 - SNMP
+389 - LDAP
+443 - HTTPS
+445 - SMB
+465 - SMTPS
+514 - Syslog
+587 - SMTP Submission
+636 - LDAPS
+993 - IMAPS
+995 - POP3S
+1433 - MSSQL
+1521 - Oracle
+3306 - MySQL
+3389 - RDP
+5432 - PostgreSQL
+5900 - VNC
+5985 - WinRM
+8080 - HTTP Alternate
+
+
+RECOMMENDED TEACHING ORDER
+==========================
+
+01. What is Networking?
+02. Intro to LAN
+03. OSI Model
+04. Packets & Frames
+05. Extending Your Network
+06. Intro to Network Services
+07. DNS in Detail
+08. HTTP in Detail
+09. How Websites Work
+10. Putting It All Together
+11. Nmap Live Host Discovery
+12. Nmap Basic Port Scans
+13. Nmap Advanced Port Scans
+14. Nmap Post Port Scans
+15. Telnet
+16. FTP
+17. SMB
+18. Network Services
+19. Network Services 2
+20. Wireshark Fundamentals
+21. Wireshark The Basics
+22. Traffic Analysis Essentials
+23. Basic Pentesting
+24. Kerberos
+25. Advanced AD Protocol Enumeration
+
+END OF FILE
